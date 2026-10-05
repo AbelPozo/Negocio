@@ -4,9 +4,8 @@ body{
     margin: 0;
 }
 
-.páginas{
-    display: flex;
-    justify-content: center;
+#páginas{
+    text-align: center;
 }
 
 .negocio{
