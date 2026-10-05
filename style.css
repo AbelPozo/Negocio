@@ -4,6 +4,11 @@ body{
     margin: 0;
 }
 
+.páginas{
+    display: flex;
+    justify-content: center;
+}
+
 .negocio{
     width: 90%;
     max-width: 1000px;
